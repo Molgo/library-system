@@ -1,3 +1,3 @@
 # library-system
 
-Sistema simples de biblioteca feito para treinar fundamentos de programação orientada a objetogit 
+Sistema simples de biblioteca feito para treinar fundamentos de programação orientada a objeto
